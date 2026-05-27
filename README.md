@@ -1,5 +1,5 @@
 ## 🤩 My profile goddemn 🤩
-<div style="font-size:50px">Я ГЕЮГА ЖЕСКИЙ ПИЗДЕЦ</div>
+####Я ГЕЮГА ЖЕСКИЙ ПИЗДЕЦ
 I'm **Scalara**, and i can:
 - simple work in Blender 💠:
 - simple .md files(like that)
